@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9e4aa7e.css",
+    "main.js": "/static/js/main.0dc8d17f.js",
+    "static/media/ui-ux-project-three.svg": "/static/media/ui-ux-project-three.c4ab1a68cf6682639663adc05e33a5ef.svg",
+    "static/media/ui-ux-project-two.svg": "/static/media/ui-ux-project-two.220ed19d358c642386f2dda1fa3a313e.svg",
+    "static/media/projects-page.svg": "/static/media/projects-page.a288ad051245dde972b95af641c0190d.svg",
+    "static/media/ui-ux-project-one.svg": "/static/media/ui-ux-project-one.8987ef6161957e5ced22044ec2c410f3.svg",
+    "static/media/about-me-page.svg": "/static/media/about-me-page.de79a72938ed30948f5289360b9f8b19.svg",
+    "static/media/web-project-one.jpeg": "/static/media/web-project-one.7ef0461f72aedc165f64.jpeg",
+    "static/media/web-project-three.jpeg": "/static/media/web-project-three.5fc24b8e86904bfe5856.jpeg",
+    "static/media/home-page.svg": "/static/media/home-page.3d99bbe3e9e69e026163d1257c19de1c.svg",
+    "static/media/web-project-two.jpeg": "/static/media/web-project-two.49a6c95132ffa750cd8b.jpeg",
+    "static/media/contact-icon.svg": "/static/media/contact-icon.e236660f4f7b53f8c349819bded4e306.svg",
+    "static/media/user.svg": "/static/media/user.c3b4c272890d523665cdebf9c3dbc145.svg",
+    "static/media/about-illustration.svg": "/static/media/about-illustration.71feca1f6210ad9210ca9ecccabd0ad3.svg",
+    "static/media/contact-page.svg": "/static/media/contact-page.bb6dd0d5c4b36d67c1d4383d9a597201.svg",
+    "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.5919e6418d20d09b90bbdf46d524b919.svg",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.14a18ac4832d5e8dde8a983ea18a8fef.svg",
+    "static/media/github-icon.svg": "/static/media/github-icon.f8b98328d03b18c332bb36a3fede2c45.svg",
+    "static/media/twitter-icon.svg": "/static/media/twitter-icon.3eb3f3fa36ee79a1ac7d1176a7904f26.svg",
+    "index.html": "/index.html",
+    "static/media/download-btn-icon.svg": "/static/media/download-btn-icon.db00ff1fa6f1d172b12f9e1441c6d79c.svg",
+    "static/media/facebook-icon.svg": "/static/media/facebook-icon.014da167b78be7d792a3e909edab6b5c.svg",
+    "main.b9e4aa7e.css.map": "/static/css/main.b9e4aa7e.css.map",
+    "main.0dc8d17f.js.map": "/static/js/main.0dc8d17f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9e4aa7e.css",
+    "static/js/main.0dc8d17f.js"
+  ]
+}
